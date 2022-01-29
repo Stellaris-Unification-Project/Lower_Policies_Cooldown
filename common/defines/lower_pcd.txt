@@ -1,0 +1,5 @@
+	NGameplay = {
+		
+		POLICY_YEARS						= 2 	# Years a set policy can not be changed for
+		SPECIES_POLICY_YEARS				= 2
+	}
